@@ -1,0 +1,16 @@
+﻿<Page x:Class="ISBN_Checker_v1.ISBNCheckerHome"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="350" d:DesignWidth="525"
+	Title="ISBN Checker - Home">
+
+    <Grid>
+        <Label Style="{StaticResource labelStyle}" Margin="10,38,0,0">ISBN Number:</Label>
+        <TextBox Name="ISBNNum" Margin="16,64,275,231"/>
+        
+        <Button Style="{StaticResource buttonStyle}" Name="EnterButton" Margin="0,222,390,102" Click="EnterButton_Click">Enter</Button>
+    </Grid>
+</Page>

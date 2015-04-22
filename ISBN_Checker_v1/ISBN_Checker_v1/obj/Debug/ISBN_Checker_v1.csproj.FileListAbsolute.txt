@@ -1,0 +1,16 @@
+C:\Users\jared.ramey\Documents\GitHub\Morning_Programming_Questions\ISBN_Checker_v1\ISBN_Checker_v1\bin\Debug\ISBN_Checker_v1.exe.config
+C:\Users\jared.ramey\Documents\GitHub\Morning_Programming_Questions\ISBN_Checker_v1\ISBN_Checker_v1\obj\Debug\ISBN_Checker_v1.csprojResolveAssemblyReference.cache
+C:\Users\jared.ramey\Documents\GitHub\Morning_Programming_Questions\ISBN_Checker_v1\ISBN_Checker_v1\obj\Debug\ISBNCheckerHome.baml
+C:\Users\jared.ramey\Documents\GitHub\Morning_Programming_Questions\ISBN_Checker_v1\ISBN_Checker_v1\obj\Debug\MainWindow.baml
+C:\Users\jared.ramey\Documents\GitHub\Morning_Programming_Questions\ISBN_Checker_v1\ISBN_Checker_v1\obj\Debug\ISBNCheckerHome.g.cs
+C:\Users\jared.ramey\Documents\GitHub\Morning_Programming_Questions\ISBN_Checker_v1\ISBN_Checker_v1\obj\Debug\MainWindow.g.cs
+C:\Users\jared.ramey\Documents\GitHub\Morning_Programming_Questions\ISBN_Checker_v1\ISBN_Checker_v1\obj\Debug\App.g.cs
+C:\Users\jared.ramey\Documents\GitHub\Morning_Programming_Questions\ISBN_Checker_v1\ISBN_Checker_v1\obj\Debug\ISBN_Checker_v1_MarkupCompile.cache
+C:\Users\jared.ramey\Documents\GitHub\Morning_Programming_Questions\ISBN_Checker_v1\ISBN_Checker_v1\obj\Debug\ISBN_Checker_v1.g.resources
+C:\Users\jared.ramey\Documents\GitHub\Morning_Programming_Questions\ISBN_Checker_v1\ISBN_Checker_v1\obj\Debug\ISBN_Checker_v1.Properties.Resources.resources
+C:\Users\jared.ramey\Documents\GitHub\Morning_Programming_Questions\ISBN_Checker_v1\ISBN_Checker_v1\obj\Debug\ISBN_Checker_v1.csproj.GenerateResource.Cache
+C:\Users\jared.ramey\Documents\GitHub\Morning_Programming_Questions\ISBN_Checker_v1\ISBN_Checker_v1\bin\Debug\ISBN_Checker_v1.exe
+C:\Users\jared.ramey\Documents\GitHub\Morning_Programming_Questions\ISBN_Checker_v1\ISBN_Checker_v1\bin\Debug\ISBN_Checker_v1.pdb
+C:\Users\jared.ramey\Documents\GitHub\Morning_Programming_Questions\ISBN_Checker_v1\ISBN_Checker_v1\obj\Debug\ISBN_Checker_v1.exe
+C:\Users\jared.ramey\Documents\GitHub\Morning_Programming_Questions\ISBN_Checker_v1\ISBN_Checker_v1\obj\Debug\ISBN_Checker_v1.pdb
+C:\Users\jared.ramey\Documents\GitHub\Morning_Programming_Questions\ISBN_Checker_v1\ISBN_Checker_v1\obj\Debug\App.baml
